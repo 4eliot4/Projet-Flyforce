@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/flyforce-cover.png" alt="FlyForce – 3-DOF Force Sensor" width="800">
+</p>
+
 # FlyForce – Capteur de force 3-DOF à guidages flexibles
 
 Projet réalisé dans le cadre du cours **Conception de mécanismes** à l’**EPFL** (Mai 2025) – **Groupe 28**
